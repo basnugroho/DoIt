@@ -13,7 +13,6 @@
 		700B393B1DA2D8E000254614 /* DoIt.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 700B39391DA2D8E000254614 /* DoIt.xcdatamodeld */; };
 		700B393D1DA2D8E000254614 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 700B393C1DA2D8E000254614 /* Assets.xcassets */; };
 		700B39401DA2D8E000254614 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 700B393E1DA2D8E000254614 /* LaunchScreen.storyboard */; };
-		70DCFFF51DA2DD5900757753 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70DCFFF41DA2DD5900757753 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		700B393C1DA2D8E000254614 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		700B393F1DA2D8E000254614 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		700B39411DA2D8E000254614 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		70DCFFF41DA2DD5900757753 /* Task.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 				700B393E1DA2D8E000254614 /* LaunchScreen.storyboard */,
 				700B39411DA2D8E000254614 /* Info.plist */,
 				700B39391DA2D8E000254614 /* DoIt.xcdatamodeld */,
-				70DCFFF41DA2DD5900757753 /* Task.swift */,
 			);
 			path = DoIt;
 			sourceTree = "<group>";
@@ -143,7 +140,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				70DCFFF51DA2DD5900757753 /* Task.swift in Sources */,
 				700B393B1DA2D8E000254614 /* DoIt.xcdatamodeld in Sources */,
 				700B39351DA2D8E000254614 /* ViewController.swift in Sources */,
 				700B39331DA2D8E000254614 /* AppDelegate.swift in Sources */,
@@ -310,7 +306,6 @@
 				700B39461DA2D8E000254614 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
